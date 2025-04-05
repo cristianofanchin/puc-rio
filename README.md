@@ -3,6 +3,13 @@
 Repositório de arquivos do aluno Cristiano Weiber Fanchin
 <br><br>
 
+## Sprint 3 - Engenharia de Dados
+
+**[Acessar o notebook do MVP](https://github.com/cristianofanchin/puc-rio/blob/main/MVP_Sprint_MLA.ipynb)**
+
+<br><br>
+
+
 ## Sprint 2 - Machine Learning & Analytics
 
 **[Acessar o notebook do MVP](https://github.com/cristianofanchin/puc-rio/blob/main/MVP_Sprint_MLA.ipynb)**
