@@ -19,9 +19,9 @@ Haverá ao final de cada notebook um link para o próximo, mas se preferir, pode
 <br/><br/>
 **[📘 Notebook 2 - Catálogo de Dados e Análise da Qualidade](https://github.com/cristianofanchin/puc-rio/blob/main/engenhariadados/2-Catalogo_e_Analise_de_Dados.ipynb)**
 <br/><br/>
-**[📘 Notebook 3 - Processos ETL nas camadas Bronze, Silver e Gold](https://github.com/cristianofanchin/puc-rio/blob/main/engenhariadados/3-ETL_Bronze_Silver_Gold)**
+**[📘 Notebook 3 - Processos ETL nas camadas Bronze, Silver e Gold](https://github.com/cristianofanchin/puc-rio/blob/main/engenhariadados/3-ETL_Bronze_Silver_Gold.ipynb)**
 <br/><br/>
-**[📘 Notebook 4 - Solução do Problema e Autoavaliação](https://github.com/cristianofanchin/puc-rio/blob/main/engenhariadados/4-Solucao_do_Problema_e_Autoavaliacao)**
+**[📘 Notebook 4 - Solução do Problema e Autoavaliação](https://github.com/cristianofanchin/puc-rio/blob/main/engenhariadados/4-Solucao_do_Problema_e_Autoavaliacao.ipynb)**
 
 
 <br/><br/>
