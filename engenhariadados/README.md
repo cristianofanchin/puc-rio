@@ -29,7 +29,7 @@ Haverá ao final de cada notebook um link para o próximo, mas se preferir, pode
 ## 📌Introdução
 
 Para esse trabalho, buscou-se um dataset de assunto de relevante interesse para o autor e cujos dados pudessem ser trabalhados de forma a cumprir o escopo do MVP.
-Dessa forma, após uma busca em bases gratuitas de dados disponíveis na internet, chegou-se a um dataset contendo registros de visitas hospitalares do Hospital Geral de Massashuseets dos anos compreendidos entre 2011 e 2022, incluindo dados demográficos dos pacientes, cobertura de seguradoras de saúde, visitas hospitalares e custos.
+Dessa forma, após uma busca em bases gratuitas de dados disponíveis na internet, chegou-se a um dataset contendo registros de visitas hospitalares do Hospital Geral de Massachusetts dos anos compreendidos entre 2011 e 2022, incluindo dados demográficos dos pacientes, cobertura de seguradoras de saúde, visitas hospitalares e custos.
 
 O dataset é fornecido pela Maven Analytics, em um ambiente chamado de "Data Playground", nesse endereço:
 [https://mavenanalytics.io/data-playground](https://mavenanalytics.io/data-playground).
