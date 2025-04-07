@@ -54,7 +54,7 @@ A essas perguntas, acrescentamos mais algumas para compor o nosso problema:
 
 - Quais os maiores motivos de visitas hospitalares?
 
-- Como foi a evolução das visitas motivadas pela COVID-19 ao longos dos meses?
+- Qual é o gasto hospitalar dos casos em que não há cobertura de seguro?
 
 - Em que localidades moravam os pacientes que procuraram atendimento por COVID-19?
 
