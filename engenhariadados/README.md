@@ -9,7 +9,7 @@ A plataforma adotada foi a Databricks Comunity Edition, de uso gratuito.
 
 A apresentação do trabalho inicia nesta página, onde temos a introdução ao tema, o relato da busca pelos dados e a descrição de um problema de análise de dados que se deseja resolver.
 
-Na sequência, você deverá navegar por quatro notebooks, que detalharão as etapas realizadas na plataforma Databricks, com apresentação do código executado e evidências dos resultados obtidos. Os notebooks também contém relatos e conclusões parciais referentes aos passos desse MVP.
+Na sequência, você deverá navegar por cada um dos quatro notebooks que detalharão as etapas realizadas na plataforma Databricks, com apresentação do código executado e evidências dos resultados obtidos. Os notebooks também contém relatos e conclusões parciais referentes aos passos desse MVP.
 
 <br/><br/>
 Haverá ao final de cada notebook um link para o próximo, mas se preferir, pode acessá-los diretamente por aqui:
