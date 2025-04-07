@@ -56,7 +56,7 @@ A essas perguntas, acrescentamos mais algumas para compor o nosso problema:
 
 - Qual é o gasto hospitalar dos casos em que não há cobertura de seguro?
 
-- Em que localidades moravam os pacientes que procuraram atendimento por COVID-19?
+- Em que localidades moravam os pacientes que procuraram atendimento nos anos de 2020 e 2021, auge da pandemia por COVID-19?
 
 <br/>
 Por meio de processos ETL usando a proposta de Arquiterura Medallion, os dados do dataset Hospital Patient Records foram extraídos, carregados em ambiente de nuvem, transformados e armazenados em BD em nuvem ao longo do pipeline da arquitetura: 🥉 Bronze 🥈 Silver 🥇 Gold.
