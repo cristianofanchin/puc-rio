@@ -4,6 +4,10 @@ Aluno: Cristiano Weiber Fanchin
 <br/><br/>
 
 ## Sprint 3 - Engenharia de Dados - MVP
+<br/>
+
+## 📌Introdução
+
 O trabalho aqui apresentado tem por objetivo construir e documentar um pipeline de dados utilizando tecnologia em nuvem.
 A plataforma adotada foi a Databricks Comunity Edition, de uso gratuito.
 
@@ -11,7 +15,6 @@ A apresentação do trabalho inicia nesta página, onde temos a introdução ao 
 
 Na sequência, você deverá navegar por cada um dos quatro notebooks que detalharão as etapas realizadas na plataforma Databricks, com apresentação do código executado e evidências dos resultados obtidos. Os notebooks também contém relatos e conclusões parciais referentes aos passos desse MVP.
 
-<br/><br/>
 Haverá ao final de cada notebook um link para o próximo, mas se preferir, pode acessá-los diretamente por aqui:
 <br/><br/>
 
@@ -23,10 +26,7 @@ Haverá ao final de cada notebook um link para o próximo, mas se preferir, pode
 <br/><br/>
 **[📘 Notebook 4 - Solução do Problema e Autoavaliação](https://github.com/cristianofanchin/puc-rio/blob/main/engenhariadados/4-Solucao_do_Problema_e_Autoavaliacao.ipynb)**
 
-
-<br/><br/>
-
-## 📌Introdução
+<br/>
 
 Para esse trabalho, buscou-se um dataset de assunto de relevante interesse para o autor e cujos dados pudessem ser trabalhados de forma a cumprir o escopo do MVP.
 Dessa forma, após uma busca em bases gratuitas de dados disponíveis na internet, chegou-se a um dataset contendo registros de visitas hospitalares do Hospital Geral de Massachusetts dos anos compreendidos entre 2011 e 2022, incluindo dados demográficos dos pacientes, cobertura de seguradoras de saúde, visitas hospitalares e custos.
@@ -34,10 +34,16 @@ Dessa forma, após uma busca em bases gratuitas de dados disponíveis na interne
 O dataset é fornecido pela Maven Analytics, em um ambiente chamado de "Data Playground", nesse endereço:
 [https://mavenanalytics.io/data-playground](https://mavenanalytics.io/data-playground).
 <br/><br/>
-O datasete em questão pode ser encontrado buscando por "Hospital Patient Records". O link direto ao arquivo ZIP do dataset é:
+O dataset em questão pode ser encontrado buscando por "Hospital Patient Records". O link direto ao arquivo ZIP do dataset é:
 
 [Dataset: Hospital Patient Records](https://maven-datasets.s3.amazonaws.com/Hospital+Patient+Records/Hospital+Patient+Records.zip)
 <br/><br/>
+
+
+
+## 🔠Objetivo
+
+**Obter estatísticas sobre atendimentos hospitalares a partir dos registros do Hospital Geral de Massachusett no período de 2011 a 2022.**
 
 O portal Maven Analytics sugere algumas perguntas a serem respondidas a partir dos dados ali contidos:
 
@@ -61,7 +67,7 @@ A essas perguntas, acrescentamos mais algumas para compor o nosso problema:
 <br/>
 Por meio de processos ETL usando a proposta de Arquiterura Medallion, os dados do dataset Hospital Patient Records foram extraídos, carregados em ambiente de nuvem, transformados e armazenados em BD em nuvem ao longo do pipeline da arquitetura: 🥉 Bronze 🥈 Silver 🥇 Gold.
 <br/><br/>
-A partir da camada Gold, consultas SQL foram realizadas e juntamente com técnicas de vizualização de dados, foi possível chegar às respostas para as questões acima.
+A partir da camada Gold, consultas SQL foram realizadas e, juntamente com técnicas de visualização de dados, foi possível chegar às respostas para as questões acima.
 <br/><br/>
 
 Navegue para o [📘 Notebook 1](https://github.com/cristianofanchin/puc-rio/blob/main/engenhariadados/1-Download_Dataset_ZIP.ipynb) e acompanhe a jornada do MVP.
